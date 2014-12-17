@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="morn.core.components.ScrollMenuBox"/>
+    <classEntry path="morn.editor.core.IKinect"/>
+    <classEntry path="morn.core.components.ColorPiece"/>
+    <classEntry path="morn.core.components.VideoDisplay"/>
+    <classEntry path="morn.core.components.PenSignature"/>
+    <classEntry path="com.senocular.ui.VirtualMouse"/>
+    <classEntry path="com.senocular.ui.VirtualMouseEvent"/>
+    <classEntry path="com.senocular.ui.VirtualMouseMouseEvent"/>
+    <classEntry path="morn.core.components.Loading"/>
+    <classEntry path="morn.core.components.LiveProgressBar"/>
+    <classEntry path="morn.core.components.LanIpLoginComponent"/>
+    <classEntry path="morn.core.components.__LanIpLoginComponent_base"/>
+    <classEntry path="morn.core.components.Book"/>
+    <classEntry path="morn.core.components.HTML_Component"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
