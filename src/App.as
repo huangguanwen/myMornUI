@@ -1,7 +1,7 @@
 /**
  * Morn UI Version 3.0 http://www.mornui.com/
- * Feedback yungzhu@gmail.com http://weibo.com/newyung
- */
+ * Feedback yungzhu@gmail.com http://weibo.com/newyung 
+ */ 
 package {
 	import flash.display.Sprite;
 	import flash.display.Stage;
